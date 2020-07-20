@@ -3,9 +3,7 @@
 
 Skills: Python / Golang / Ruby / JS
 
-🌱 I’m currently learning Golang 
-
-⚡ Fun fact: Movie / Game / Music 
+🌱 I’m currently learning Golang ⚡ Fun fact: Movie / Game / Music 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kidothunder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kidothunder.github.io/)  
 
