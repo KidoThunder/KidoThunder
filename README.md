@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kido
-#### I am a full-time backend developer in Chengdu China.
+#### I am a backend developer in Chengdu China.
 
 Skills: Python / Golang / Ruby / JS
 
