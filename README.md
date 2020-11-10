@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Kido
 #### I am a backend developer in Chengdu China.
 
-Skills: Python / Golang / Ruby / JS
-
 🌱 I’m currently learning Golang ⚡ Fun fact: Movie / Game / Music 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kidothunder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kidothunder.github.io/)  
 
