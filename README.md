@@ -1,10 +1,13 @@
-### Hi there 👋, my name is Kido
+### Hi there 👋
+#### my name is Kido.
 #### I am a backend developer in Chengdu China.
+#### This is my blog: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.zkido.cc/)
 
-🌱 I’m currently learning Golang ⚡ Fun fact: Movie / Game / Music 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🌱 I’m currently learning Golang 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kidothunder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kidothunder.github.io/)  
+⚡ Skills: Python / Golang / Ruby / JS 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kidothunder&show_icons=true)![Profile views](https://gpvc.arturio.dev/kidothunder)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidothunder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kidothunder&title_color=3F2B13&text_color=A2501E&icon_color=A2501E&hide_border=true&show_icons=true&count_private=true&bg_color=DEG,D7DADB,A4B2B6)![Profile views](https://gpvc.arturio.dev/kidothunder)  
