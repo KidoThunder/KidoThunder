@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm Kido
-#### I am a backend developer in Chengdu China
+#### I'm a developer in Chengdu China
 #### This is my blog: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.zkido.cc/)
 
 
