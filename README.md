@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/linux-292e33?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 #### Tools
-[![](https://img.shields.io/badge/-PyCharm-69D994?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/-PyCharm-69D994?style=flat-square&logo=pycharm&logoColor=000000)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/-Vim-377C21?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org/download.php)
 [![](https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/)
 
