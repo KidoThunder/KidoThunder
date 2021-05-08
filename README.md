@@ -8,8 +8,10 @@
 [![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/linux-292e33?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 #### Tools
-[![](https://img.shields.io/badge/IDE-PyCharm-69D994?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/Editor-Vim-377C21?style=flat-square&logo=vim&logoColor=377C21)](https://www.vim.org/download.php)
+[![](https://img.shields.io/badge/-PyCharm-69D994?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/-Vim-377C21?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org/download.php)
+[![](https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/)
+
 #### Language
 [![](https://img.shields.io/badge/-Python-26415C?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-GoLang-4BAAD3?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
