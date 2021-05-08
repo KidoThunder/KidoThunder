@@ -10,7 +10,7 @@
 #### Tools
 [![](https://img.shields.io/badge/-PyCharm-69D994?style=flat-square&logo=pycharm&logoColor=000000)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/-Vim-377C21?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org/download.php)
-[![](https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=000000)](https://www.notion.so/)
+[![](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)](https://www.notion.so/)
 
 #### Language
 [![](https://img.shields.io/badge/-Python-26415C?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
